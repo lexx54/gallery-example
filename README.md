@@ -61,6 +61,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [Portfolio](http://codelexx.epizy.com/)
+- Website [Portfolio](https://personal-portfolio.lexx54.vercel.app/)
 - GitHub [@lexx54](https:/github.com/lexx54)
 - Twitter [@code_lexx](https://twitter.com/code_lexx)
