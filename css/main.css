@@ -1,0 +1,58 @@
+/*---------------------------------------GENERAL-------------------------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+:root {
+}
+body {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+/*---------------------------------------MAIN-------------------------------------------*/
+/*------------Profile-------------*/
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-info {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-info img {
+  width: 50%;
+  border-radius: 25px;
+}
+.profile-info p:first-of-type {
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+}
+.profile-info p:last-of-type {
+  color: #a9a9a9;
+}
+.profile-statistic {
+  display: flex;
+  margin: 1rem 0 2rem;
+  width: 100%;
+  justify-content: space-around;
+}
+.statistic-container {
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  background-color: #e5e5e5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.sta-description {
+  margin-top: 0.3rem;
+  color: #bdbdbd;
+}
+/*------------Gallery-------------*/
+.gallery img {
+  width: 100%;
+}
