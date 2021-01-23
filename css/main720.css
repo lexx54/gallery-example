@@ -1,2 +1,13 @@
 @media screen and (min-width: 720px) {
+  .profile {
+    width: 60%;
+  }
+  .profile-statistic {
+    width: 80%;
+  }
+}
+@media screen and (min-width: 1020px) {
+  .profile-statistic {
+    width: 70%;
+  }
 }
